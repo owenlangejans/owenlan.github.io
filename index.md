@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+### Introduction
 
 You can use the [editor on GitHub](https://github.com/owenlangejans/owenlan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Hello, my name is Owen Langejans. I’m currently a high school student planning to pursue a degree in Mathematics. I spend my time learning and practicing running (not running code but actual running), playing chess, table tennis, and working at Forensic Fluids Laboratories for database developement. I enjoy coding and am new to web development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Projects
+I am in the middle of learning how to do multi-dimensional dynamic programming. Currently, I am doing research under Dr. Ajay Gupta of WMU studying “Natural Language Processing using Machine Learning Techniques.” I also have many projects through Forensic Fluids, including exporting reports from an old server and large reports
+
+### Future Plans
+I plan on studying Actuarial Science with a math major and a possible computer science major at either the University of Michigan or Drake University.
 
 ```markdown
 Syntax highlighted code block
