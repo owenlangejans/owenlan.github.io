@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello, my name is Owen Langejans. I’m currently a high school student planning to pursue a degree in Mathematics. I spend my time learning and practicing running (not running code but actual running), playing chess, table tennis, and working at Forensic Fluids Laboratories for database developement. I enjoy coding and am new to web development.
+Hello, my name is Owen Langejans. I’m currently a high school student planning to pursue a degree in Mathematics. I spend my time learning, running (not running code but actual running), playing chess, table tennis, and working at Forensic Fluids Laboratories for database developement. I enjoy coding and am new to web development.
 
 ### Current Projects
 
