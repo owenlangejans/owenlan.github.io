@@ -1,10 +1,12 @@
+![alt text](https://github.com/owenlangejans/owenlan.github.io/new1.png "Me")
+
 ### Introduction
 
-Hello, my name is Owen Langejans. I’m currently a high school student planning to pursue a degree in Mathematics. I spend my time learning, running (not running code but actual running), playing chess, table tennis, and working at Forensic Fluids Laboratories for database developement. I enjoy coding and am new to web development.
+Hello, my name is Owen Langejans. I’m currently a high school student planning to pursue a degree in Mathematics and possibly Computer Science. I spend my time learning, running (not running code but actual running), playing chess, table tennis, and working at Forensic Fluids Laboratories for database developement. I enjoy coding and am new to web development.
 
 ### Current Projects
 
-I am in the middle of learning how to do multi-dimensional dynamic programming. Currently, I am doing research under Dr. Ajay Gupta of WMU studying “Analyzing the risks of heart disease using machine learning techniques.” I also have many projects through Forensic Fluids, including exporting reports from an old server and large reports.
+I am in the middle of learning how to do multi-dimensional dynamic programming. Currently, I am doing research under Dr. Ajay Gupta of WMU working with machine learning to analyze the risk of Heart Disease. I also have many projects through Forensic Fluids, including exporting reports from an old server and creating large reports.
 
 ### Future Plans
 
