@@ -1,4 +1,4 @@
-![alt text](https://github.com/owenlangejans/owenlan.github.io/new1.png "Me")
+![Me](new1.png)
 
 ### Introduction
 
