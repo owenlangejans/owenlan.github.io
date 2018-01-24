@@ -1,4 +1,4 @@
-![Me](new1.png)
+![Me](https://github.com/owenlangejans/owenlan.github.io/blob/master/new1.PNG)
 
 ### Introduction
 
