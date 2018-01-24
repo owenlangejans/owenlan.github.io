@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
-![alt text](https://github.com/owenlangejans/owenlan.github.io/new1.png "Logo Title Text 1")
+---
+title: This is my title
+layout: post
+---
+
+Here is my page.
