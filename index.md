@@ -14,3 +14,7 @@ My classes at The University of Michigan include [Loss Models I](https://www.lsa
 ### Skills
 
 C++, Java, Python, PostgreSQL, TransactSQL, SQL Server Reporting Services (SSRS), SQL Server Management Studios (SSMS), Oracle-SQL Developer. 
+
+### Actuarial Exams Passed
+
+Exam P, FM, IFM
