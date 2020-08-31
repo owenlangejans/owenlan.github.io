@@ -2,16 +2,15 @@
 
 ### Introduction
 
-Hello, my name is Owen Langejans. I’m currently a high school student planning to pursue a degree in Mathematics and possibly Computer Science. I spend my time learning, running (not running code but actual running), playing chess, table tennis, and working at Forensic Fluids Laboratories for database developement. I enjoy coding and am new to web development.
+Hello, my name is Owen Langejans. I’m currently a college junior studying Actuarial Mathematics and Data Science at the University of Michigan.
+My [LinkedIn](https://www.linkedin.com/in/owen-langejans-14792a129/) page contains all relevant career information.
 
-### Current Projects
 
-I am in the middle of learning how to do multi-dimensional dynamic programming. Currently, I am doing research under Dr. Ajay Gupta of WMU working with machine learning to analyze the risk of Heart Disease. I also have many projects through Forensic Fluids, including exporting reports from an old server and creating large reports.
+### Current Position
+I am currently working part-time at Auto-Owners Insurance in the Actuarial Analytics R & D team.
+My classes at The University of Michigan include [Loss Models I](https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2310MATH523001&termArray=f_20_2310), [Applied Regression Analysis](https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2310STATS413001&termArray=f_20_2310), [Database Management Systems](https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2310EECS484001&termArray=f_20_2310), and [Introduction to Space Weather] (https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2310SPACE103001&termArray=f_20_2310)
 
-### Future Plans
-
-I plan on studying Actuarial Science with a math major and a possible computer science major, and business minor at either the University of Michigan or Drake University.
 
 ### Skills
 
-C#, C++, Java, PostgreSQL, TransactSQL, SQL Server Reporting Services (SSRS), SQL Server Management Studios (SSMS), Oracle-SQL Developer, Tensor Flow.  
+C++, Java, Python, PostgreSQL, TransactSQL, SQL Server Reporting Services (SSRS), SQL Server Management Studios (SSMS), Oracle-SQL Developer. 
