@@ -19,7 +19,7 @@ C++, Java, Python, PostgreSQL, TransactSQL, SQL Server Reporting Services (SSRS)
 
 Exam P, FM, IFM
 
-[Resume](https://raw.githubusercontent.com/owenlangejans/owenlan.github.io/master/Actuarial Resume v7.pdf)
+[Resume]("https://raw.githubusercontent.com/owenlangejans/owenlan.github.io/master/Actuarial Resume v7.pdf")
 
-[Current Transcript (Unofficial)](https://raw.githubusercontent.com/owenlangejans/owenlan.github.io/master/Langejans - Unofficial Transcript.pdf)
+[Current Transcript (Unofficial)]("https://raw.githubusercontent.com/owenlangejans/owenlan.github.io/master/Langejans - Unofficial Transcript.pdf")
 
